@@ -7,6 +7,7 @@
     <img height="20" src="https://img.shields.io/github/followers/daikiku10?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
 - 👀 I’m interested in React, TypeScript, Domain Driven Design(DDD), Docker, Nodejs, Golnag etc
 - 🌱 I’m currently learning React, Typescript, Golang
 
